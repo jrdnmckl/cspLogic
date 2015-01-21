@@ -1,0 +1,34 @@
+/*#grid-tools {*/
+    /*float: right;*/
+/*}*/
+
+.tent {
+    background-color: red;
+    /*width: 50px;*/
+    /*height: 50px;*/
+    /*width: 0;*/
+    /*height: 0;*/
+    /*border-left: 50px solid transparent;*/
+    /*border-right: 50px solid transparent;*/
+    /*border-bottom: 100px solid red;*/
+}
+
+.tree {
+    background-color: green;
+    /*width: 50px;*/
+    /*height: 50px;*/
+    /*width: 0;*/
+    /*height: 0;*/
+    /*border-left: 40px solid transparent;*/
+    /*border-right: 40px solid transparent;*/
+    /*border-bottom: 80px solid green;*/
+}
+
+.und {
+    background-color: blue;
+}
+
+.grid-cell {
+    width: 25px;
+    height: 25px;
+}
